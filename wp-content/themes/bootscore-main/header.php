@@ -65,7 +65,7 @@ defined('ABSPATH') || exit;
 </nav>
 
 <a class="navbar-brand" href="<?= esc_url(home_url()); ?>">
-    <img src="https://github.com/abraao69/testinho-fiocruz-wp-bootstrap/blob/main/Fachada.jpg?raw=true" style="width:100%; height:600px;">
+    <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/Fachada2%20(1).jpg?raw=true" style="width:100%; height:600px;">
   </a>
   <header id="masthead" class="<?= apply_filters('bootscore/class/header', 'sticky-top bg-body-tertiary site-header'); ?>">
     <div id="page" class="site">
