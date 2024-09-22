@@ -22,10 +22,6 @@ Obs: Esse projeto é bom para personalizar outros projetos web também.
   <br><br>
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/fiocruz11.jpg?raw=true" alt="Logo" width="900px" height="350px">
-  <br><br>
-</div>
-<div style="display: flex; align-items: center;">
   <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/fiocruz4.jpg?raw=true" alt="Logo" width="900px" height="350px">
   <br><br>
 </div>
@@ -43,5 +39,9 @@ Obs: Esse projeto é bom para personalizar outros projetos web também.
 </div>
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/fiocruz8.jpg?raw=true" alt="Logo" width="900px" height="350px">
+  <br><br>
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/fiocruz11.jpg?raw=true" alt="Logo" width="900px" height="350px">
   <br><br>
 </div>
