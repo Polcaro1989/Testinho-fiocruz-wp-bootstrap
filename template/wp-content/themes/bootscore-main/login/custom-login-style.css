@@ -1,0 +1,92 @@
+.login h1 a { /* Aqui será seu logo */
+    background-image: url('https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/coc_fiocruz_colorida.png?raw=true'); 
+    background-size: 350px !important;
+    height: 350px;
+    width: 350px !important;
+}
+
+body.login { /* Cor de fundo da página */
+    background-color: #a78b35 !important;
+}
+
+#loginform { /* Cor de fundo do formulário de login */
+    background-color:transparent !important;
+    border: none !important;
+    color: #FFF !important;
+}
+
+#lostpasswordform { /* Cor de fundo do formulário de recuperação de senha */
+    background-color: transparent !important;
+    border: none !important;
+}
+
+p label { /* Cor dos textos */
+    color: #FFF !important;
+font-size:20px
+}
+
+div label { /* Cor dos títulos */
+    color: black !important;
+font-size:20px
+}
+
+p input { /* Customizar o campo do e-mail */
+    background-color:#FFF !important;
+    color:#FFF !important;
+    border: none !important;
+    border-radius: 10px !important;
+    font-size: 15px;
+    padding: 15px;
+}
+
+div input { /* Customizar o campo da senha */
+    background-color:#FFFFFF !important;
+    color:black !important;
+    border: none !important;
+    border-radius: 10px !important;
+    font-size: 15px;
+    padding: 15px;
+}
+
+#backtoblog { /* Cor do "voltar ao site" */
+    color:#000000 !important;
+}
+
+#wp-submit { /* Customizar o botão */
+    width: 100%;
+    padding: 20px;
+    background-color:#fff !important;
+    color: #FFF;
+    margin-top: 20px;
+}
+
+#wp-submit:hover { /* Botão com hover, caso queira */
+    background-color: #fff !important;
+}
+
+.dashicons-visibility { /* Customizar o ícone da senha */
+    color:#000000;
+}
+
+.dashicons-hidden { /* Customizar o ícone da senha */
+    color: #a8a8a8;
+}
+
+a { /* Customizar o "esqueceu a senha" */
+    color: #fff !important;
+font-size:20px
+}
+
+#nav { /* Customizar o espaço entre as opções e o formulário */
+    margin-top: -15px !important;
+}
+
+.message { /* Customizar a mensagem */
+    padding: 15px !important;
+    border-radius: 10px !important;
+    background-color:white !important;
+    color:black !important;
+    border-left: 0px !important;
+    font-size:20px
+}
+
