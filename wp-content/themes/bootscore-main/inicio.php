@@ -62,7 +62,7 @@ $first_card_h1 = isset($first_card_data->h1) ? $first_card_data->h1 : '';
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div style="display: flex; justify-content: center;">
-                    <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/Fachada.jpg?raw=true" class="d-block" style="height: 700px; width: 50%; object-fit: cover;">
+                    <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/Fachada3.jpg?raw=true" class="d-block" style="height: 700px; width: 50%; object-fit: cover;">
                     <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/COC8508.jpg?raw=true" class="d-block" style="height: 700px; width: 50%; object-fit: cover;">
                 </div>
             </div>
