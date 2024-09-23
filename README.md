@@ -1,10 +1,8 @@
 
 # Sistema CMS Wordpress+Bootstrap em container Docker.  
   
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/abraao69/abraao69/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png" alt="Logo" width="200px" height="200">
-  <br><br>
-</div>
+<img src="https://github.com/abraao69/abraao69/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png" alt="Logo">
+
   
 CRÉDITOS AO AUTOR DO Testinho CMS  Bootstrap+Wordpress:  
 https://github.com/abraao69  
