@@ -8,7 +8,7 @@ https://github.com/abraao69
 O servidor está configurado com muitos complementos, sendo grande parte deles necessários para o pleno funcionamento.  
 Obs: Esse projeto é bom para personalizar outros projetos web também. 
 
-<img src="https://github.com/abraao69/abraao69/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png" alt="Logo">
+<img src="https://github.com/abraao69/abraao69/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png" alt="Logo" width="900px" height="350px">
 
 <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/fiocruz9%20(1).jpg?raw=true" alt="Logo" width="900px" height="350px">
   
