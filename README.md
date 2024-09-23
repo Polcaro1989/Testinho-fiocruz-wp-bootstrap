@@ -34,11 +34,10 @@ Obs: Esse projeto é bom para personalizar outros projetos web também.
   <br><br>
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/fiocrus150.jpg?raw=true" alt="Logo">
-  <br><br>
-</div>
-<div style="display: flex; align-items: center;">
   <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/fiocruz8.jpg?raw=true" alt="Logo">
   <br><br>
 </div>
-
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/fiocrus150.jpg?raw=true" alt="Logo">
+  <br><br>
+</div>
