@@ -2,7 +2,7 @@
 # Sistema CMS Wordpress+Bootstrap em container Docker.  
   
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/logo.png" alt="Logo" width="200" height="100">
+  <img src="https://github.com/abraao69/abraao69/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png" alt="Logo" width="200" height="100">
   <br><br>
 </div>
   
