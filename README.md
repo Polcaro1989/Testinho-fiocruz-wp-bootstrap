@@ -1,5 +1,5 @@
 
-# Sistema CMS Wordpress+Bootstrap.  
+# Sistema CMS Wordpress+Bootstrap:
   
 CRÉDITOS AO AUTOR DO Testinho CMS  Bootstrap+Wordpress:  
 https://github.com/abraao69  
